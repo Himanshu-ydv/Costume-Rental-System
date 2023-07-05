@@ -1,0 +1,4 @@
+Formal Suits,MegaPlex,$14.5,100
+Fairy Costume,DollarSmart,$18,500
+Thor Costume,Marvel INC,$23,500
+Ant Costume,DC Comics,$25,500
